@@ -6,3 +6,4 @@ git has a mutable index called stage
 Hello world
 hhhhhhhhhhhhhhhh
 88888888888888888888
+gggggggggggggggggggg
